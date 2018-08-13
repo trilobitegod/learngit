@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 add tag.
 fast forward banned!
 Git is a free software.
+master.
